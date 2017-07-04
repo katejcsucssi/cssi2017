@@ -1,0 +1,11 @@
+#userInput {
+  font-weight: bolder;
+  color: green;
+}
+
+#showMe {
+  height: 100px;
+  font-size: 24px;
+  width: 400px;
+  border-width: 10px;
+}
